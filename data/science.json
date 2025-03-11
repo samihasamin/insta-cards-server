@@ -1,0 +1,44 @@
+{
+  "science_trivia_questions": [
+    {
+      "question": "What is the most abundant gas in Earth's atmosphere?",
+      "answer": "Nitrogen (78%)"
+    },
+    {
+      "question": "What is the only metal that is liquid at room temperature?",
+      "answer": "Mercury"
+    },
+    {
+      "question": "What is the speed of light in a vacuum (m/s)?",
+      "answer": "299,792,458 m/s"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "answer": "Mitochondria"
+    },
+    {
+      "question": "Which element has the highest melting point?",
+      "answer": "Tungsten"
+    },
+    {
+      "question": "What is the second most abundant element in Earth's crust?",
+      "answer": "Silicon"
+    },
+    {
+      "question": "What is the principle behind hydraulic systems?",
+      "answer": "Pascal’s Law"
+    },
+    {
+      "question": "Which scientist proposed the theory of relativity?",
+      "answer": "Albert Einstein"
+    },
+    {
+      "question": "What type of energy is stored in food?",
+      "answer": "Chemical energy"
+    },
+    {
+      "question": "What type of bond is formed between sodium and chlorine in salt?",
+      "answer": "Ionic bond"
+    }
+  ]
+}

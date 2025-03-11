@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "What is the square root of 289?",
+      "answer": "17"
+    },
+    {
+      "question": "What is 15 factorial (15!)?",
+      "answer": "1,307,674,368,000"
+    },
+    {
+      "question": "What is the derivative of x^3 + 5x^2 - 2x + 7?",
+      "answer": "3x^2 + 10x - 2"
+    },
+    {
+      "question": "If a right triangle has legs of 9 cm and 12 cm, what is the hypotenuse?",
+      "answer": "15 cm"
+    },
+    {
+      "question": "What is the sum of the first 100 positive integers?",
+      "answer": "5050"
+    },
+    {
+      "question": "Solve for x: 2x^2 - 5x - 3 = 0",
+      "answer": "x = 3, x = -0.5"
+    },
+    {
+      "question": "What is the area of a circle with a radius of 7 cm?",
+      "answer": "49π cm²"
+    },
+    {
+      "question": "What is the value of log₂(32)?",
+      "answer": "5"
+    },
+    {
+      "question": "A sphere has a radius of 4 cm. What is its volume?",
+      "answer": "268.08 cm³"
+    },
+    {
+      "question": "What is the value of the infinite geometric series 1 + 1/2 + 1/4 + 1/8 + ...?",
+      "answer": "2"
+    }
+  ]
+}

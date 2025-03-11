@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "question": "Which African country has the highest GDP?",
+        "answer": "Nigeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6753, 9.082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "question": "Which city is known as the financial capital of the world?",
+        "answer": "New York City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.006, 40.7128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "question": "Which country has the most time zones, including overseas territories?",
+        "answer": "France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2137, 46.6034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "question": "What is the deepest ocean trench on Earth?",
+        "answer": "Mariana Trench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [142.2, 11.35]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "question": "Which country is home to the world's highest waterfall, Angel Falls?",
+        "answer": "Venezuela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-62.5353, 5.9701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "question": "Which desert is the driest place on Earth?",
+        "answer": "Atacama Desert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.25, -24.5]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "question": "What is the capital city of Switzerland?",
+        "answer": "Bern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4474, 46.9481]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "question": "Which country shares the longest land border with Russia?",
+        "answer": "Kazakhstan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.9237, 48.0196]
+      }
+    }
+  ]
+}
